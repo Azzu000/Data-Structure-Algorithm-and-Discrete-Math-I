@@ -1,0 +1,110 @@
+The number of transactions is: 35
+
+Transaction History for Johnny Cash
+Account ID: 1001 - Account Name: Johnny Cash
+Money Market Balance: $940
+Prime Monay Market Balance: $6084
+Long-term Bond Balance: $20884
+Short-term Bond Balance: $29080
+500 Index Fund Balance: $0
+Capital Value Fund Balance: $108
+Growth Equity Fund Balance: $30106
+Growth Index Fund Balance: $1862
+Value Fund Balance: $0
+Value Stock Index Balance: $0
+
+Transactions: 
+  D 1001 0 542
+  D 1001 1 1542
+  D 1001 2 5442
+  D 1001 3 7540
+  D 1001 7 5442
+  D 1001 6 7542
+  D 1001 1 1500
+  D 1001 2 5000
+  D 1001 3 7000
+  D 1001 7 6543
+  D 1001 6 7576
+  W 1001 7 1000
+  W 1001 6 65
+  W 1001 0 72
+  T 1001 7 1001 5 54
+  T 1001 7 1001 5 54
+  W 1001 7 20000 (FAIL)
+
+Transaction History for Hank Williams in 500 Index Fund
+Account ID: 1253 - Account Name: Hank Williams
+500 INdex Fund Balance: $20000
+  D 1253 0 10000
+  D 1253 1 10000
+  D 1253 2 10000
+  D 1253 3 10000
+  D 1253 4 10000
+  D 1253 5 10000
+  D 1253 6 10000
+  D 1253 7 10000
+  D 1253 8 10000
+  D 1253 9 10000
+
+Transaction History for Hank Williams
+Account ID: 1253 - Account Name: Hank Williams
+Money Market Balance: $20000
+Prime Monay Market Balance: $20000
+Long-term Bond Balance: $5000
+Short-term Bond Balance: $20000
+500 Index Fund Balance: $20000
+Capital Value Fund Balance: $20000
+Growth Equity Fund Balance: $20000
+Growth Index Fund Balance: $20000
+Value Fund Balance: $20000
+Value Stock Index Balance: $20000
+
+Transactions: 
+  D 1253 0 10000
+  D 1253 1 10000
+  D 1253 2 10000
+  D 1253 3 10000
+  D 1253 4 10000
+  D 1253 5 10000
+  D 1253 6 10000
+  D 1253 7 10000
+  D 1253 8 10000
+  D 1253 9 10000
+  W 1253 2 15000 (FAIL)
+
+FINAL BALANCES: 
+Account ID: 9876 - Account Name: Willie Nelson
+Money Market Balance: $0
+Prime Monay Market Balance: $0
+Long-term Bond Balance: $0
+Short-term Bond Balance: $0
+500 Index Fund Balance: $0
+Capital Value Fund Balance: $0
+Growth Equity Fund Balance: $0
+Growth Index Fund Balance: $0
+Value Fund Balance: $0
+Value Stock Index Balance: $0
+
+Account ID: 1253 - Account Name: Hank Williams
+Money Market Balance: $20000
+Prime Monay Market Balance: $20000
+Long-term Bond Balance: $5000
+Short-term Bond Balance: $20000
+500 Index Fund Balance: $20000
+Capital Value Fund Balance: $20000
+Growth Equity Fund Balance: $20000
+Growth Index Fund Balance: $20000
+Value Fund Balance: $20000
+Value Stock Index Balance: $20000
+
+Account ID: 1001 - Account Name: Johnny Cash
+Money Market Balance: $940
+Prime Monay Market Balance: $6084
+Long-term Bond Balance: $20884
+Short-term Bond Balance: $29080
+500 Index Fund Balance: $0
+Capital Value Fund Balance: $108
+Growth Equity Fund Balance: $30106
+Growth Index Fund Balance: $1862
+Value Fund Balance: $0
+Value Stock Index Balance: $0

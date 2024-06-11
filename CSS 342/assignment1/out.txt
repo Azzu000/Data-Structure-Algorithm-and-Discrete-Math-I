@@ -1,0 +1,68 @@
+Don Quixote
+In Search of Lost Time
+Ulysses
+The Odyssey
+
+Book The Odyssey found in index 3! 
+Book is already in library.
+Removing book The Odyssey from the shelf.
+Sorry, book is not in this Library.
+Searched the whole library. Cannot remove book not in library.
+
+Testing AddBook:
+Book is already in library.
+Milton Library has these books: 
+
+The Great Way
+The Warrior
+Miss Walkers
+The Golden flower
+Sunflowers
+The Keeper
+Secret Chamber
+I am the Villain
+
+
+Testing RemoveBook:
+Removing book Secret Chamber from the shelf.
+Removing book The Keeper from the shelf.
+Milton Library has these books: 
+
+The Great Way
+The Warrior
+Miss Walkers
+The Golden flower
+Sunflowers
+I am the Villain
+
+
+Testing index of books:
+Index of last book: 0
+Index of last book: 5
+
+Testing Empty library:
+
+ Message for empty library RemoveBook method:
+No books in the library, cannot remove anything.
+
+ Message for empty library FindBook method:
+ No books in library therefore cannot find book.
+
+ Message for empty library IsInLibrary method:
+ No books in library so book is not in library.
+
+ Message for empty library ListAllBooks method:
+ No books in library. Cannot list any books.
+
+
+Testing ListAllBooks and IsInLibrary: 
+A
+New
+Book
+
+Book A found in index 0! 
+Sorry, book is not in this Library.
+
+Testing Getters:
+Milton Library currently have 6 books.
+Successfully completed all tests.

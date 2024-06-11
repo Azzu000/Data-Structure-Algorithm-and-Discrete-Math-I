@@ -1,0 +1,31 @@
+CSS342 Homework Self-Assessment
+
+Name: Ruiqi Huang
+
+
+Do you have test functions testing all your functions? Have you tested
+edge cases such as first element in an array, last element in an
+array, empty array, etc? 
+I think I have tested for all the cases of the program. I made sure to include all the errors necessary for my program using cerr
+as well. I also used different maze files to test on all different maze to make sure the program works on different mazes. 
+complete and correct programs:  50 / 50
+
+
+Does your program compile without warnings? Are there any blocks of
+repeated code that can be simplified?
+Since recursion itself helps simplifies programs I think that my program is simplified considering it has used recursion, which
+is the main topic for this program. 
+
+good programming practices:    30 / 30
+
+Do you have comments for each class both in the header and
+implementation file? Does each variable and function have an
+associated comment? Is your program properly indented? See "Code Style
+Examples - Snippets" under C++ Resources for some common problems. For
+example, all file names have to be in lowercase, all class names are
+capitalized, need to have spaces after comments, stick to maximum 80
+characters per line, space between operators, etc.
+I have included all the comments I thought were needed including my class descriptions, implementation descriptions, individual method
+description, any necessary variable descriptions and etc. 
+
+code that is easy to understand:    20 / 20

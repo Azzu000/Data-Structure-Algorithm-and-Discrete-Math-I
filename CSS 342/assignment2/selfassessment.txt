@@ -1,0 +1,36 @@
+CSS342 Homework Self-Assessment
+
+Name:Ruiqi Huang
+
+Do you have test functions testing all your functions? Have you tested
+edge cases such as first element in an array, last element in an
+array, empty array, etc? I have tested all my function with my own tests and with the tests given for the assignment.
+I made sure all the tests passed. The tests include overloading values, negative values, decimal values, all the operator
+overload functions, and etc. 
+
+complete and correct programs:  50 / 50
+
+Does your program compile without warnings? Are there any blocks of
+repeated code that can be simplified?
+My program compiled without warning in both linus and in visual studio. I compiled it in both environments. I feel like
+the code overall for all the operators are already simple enough so I did not simplify those. I did simplify making the actual
+TimeSpan using SetTime because many of the functions needed it to check if the time is right. SetTime basically converts
+all the hours and minutes given to seconds and round the seconds to make sure it is not a decimal. We cannot have a decimal
+amount of seconds. Then we convert everything back to hours, minutes and seconds accordingly. This makes sure there is no
+overloaded values of hours, minutes, or seconds. 
+
+good programming practices:    30 / 30
+
+Do you have comments for each class both in the header and
+implementation file? Does each variable and function have an
+associated comment? Is your program properly indented? See "Code Style
+Examples - Snippets" under C++ Resources for some common problems. For
+example, all file names have to be in lowercase, all class names are
+capitalized, need to have spaces after comments, stick to maximum 80
+characters per line, space between operators, etc.
+I have comment in each class in the headers file. I added some extra in the cpp file to further clarify the functions
+that needs to be further clarified. All the variables used in methods are also commented to make sure they are clear. 
+All the classes have a summary of what the class is used for. The main description of the TimeSpan class is in the 
+headers file. 
+
+code that is easy to understand:    20 / 20

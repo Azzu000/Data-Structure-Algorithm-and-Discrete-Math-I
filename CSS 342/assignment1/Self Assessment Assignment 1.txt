@@ -1,0 +1,47 @@
+CSS342 Homework Self-Assessment
+
+Name:Ruiqi Huang
+
+Do you have test functions testing all your functions? Have you tested
+edge cases such as first element in an array, last element in an
+array, empty array, etc? 
+
+I have test functions testing all my function in my driver class, ass1.cpp. I also have
+tested all the cases listed above such as testing if the first element of array is in index 0 and the last element
+int the array is actually in the last index. I use the IsInLibrary function to do so. I alsomade sure that the 
+array does not contain any element beyond the last_index by changing the for loop of the ostream operator overload 
+to list 20 elements. I changed it back once it is determined that there is no index beyond the last index. I also 
+made sure to have tests specifically for empty arrays in the MyTest() method in the driver. 
+
+complete and correct programs:  50 / 50
+
+Does your program compile without warnings? Are there any blocks of
+repeated code that can be simplified?
+
+I have tested my program and it compiles without any warning or error. There are is a block of code that is repeated
+which is the check if empty code for multipe of my functions. I did not make a function to simplify that code because 
+I wanted the code to print out different messages for each function. For example, in the RemoveBook function I print
+out a message saying "No books in the library, cannot remove anything." while in the ListAllBook function it prints
+out "No books in the library. Cannot list any books." This gives a user an idea of which action we couldn't do because
+the code is empty instead of having the same message saying the library is empty. This helps when the user wants to 
+use multiple functions on a empty library and all the messages will be different, giving the reader a more in depth
+understanding of which specific action they cannot do. But all the methods fits in one page so none of the methods
+are overly complicated. 
+
+good programming practices:    27 / 30
+
+Do you have comments for each class both in the header and
+implementation file? Does each variable and function have an
+associated comment? Is your program properly indented? See "Code Style
+Examples - Snippets" under C++ Resources for some common problems. For
+example, all file names have to be in lowercase, all class names are
+capitalized, need to have spaces after comments, stick to maximum 80
+characters per line, space between operators, etc.
+I have a comment for each class including the drivers class. Since this assignment only have two classes, including
+the drivers class, I didn't have to worry about making sure all the classes have comments. All the variables and functions
+have comments. Most comments for variable and functions are in the headers file but I made sure to include comments
+that is needed in the .cpp file too. I could not find the Code Style Exmaples - Snippets so I used the Google Style convention
+to help me. I also made sure that all my style meets the requirement listed in the examples above as well. I think that
+my style is good since eveyrthing is readable and the names of variables and functions are made to fit whatever
+they are for. 
+code that is easy to understand:     20 / 20

@@ -1,0 +1,95 @@
+Begin
+Given Tests
+testing <<
+testing overflow and negative inputs
+testing ==
+testing !=
+testing + and *
+testing +=
+testing -=
+testing comparison operators
+
+My Tests: 
+2:01:28
+Testing + 
+2:01:28 + 1:01:01
+3:02:29
+
+Testing += 
+1:01:01 += 2:01:28
+3:02:29
+
+Testing - 
+2:02:02 -= 1:01:01
+1:01:01
+
+Testing -= 
+2:02:02 -= 1:01:01
+1:01:01
+
+Testing * 
+5:03:04 * 2
+10:06:08
+
+Testing == 
+Comparing...
+1:01:01 and 1:01:01
+t13 == t14
+
+Comparing...
+1:01:01 and -1:01:01
+t13 != t15
+
+Testing != 
+Comparing...
+2:01:01 and 1:01:01
+t16 != t13
+
+Testing <
+Comparing...
+-1:01:01 and 1:01:01
+t15 < t13 is true
+
+Comparing...
+1:01:01 and -1:01:01
+t13 < t15 is false
+
+Testing <=
+Comparing...
+1:01:01 and 1:01:01
+t13 <= t14 is true
+
+Comparing...
+-1:01:01 and 1:01:01
+t15 < t13 is true
+
+Testing >
+Comparing...
+-1:01:01 and 1:01:01
+t15 > t13 is false
+
+Comparing...
+1:01:01 and -1:01:01
+t13 > t15 is true
+
+Testing >=
+Comparing...
+1:01:01 and 1:01:01
+t13 >= t14 is true
+
+Comparing...
+1:01:01 and -1:01:01
+t13 >= t15 is true
+
+Testing negative values
+1:01:01 - 2:02:02
+-1:01:01
+
+Putting in negative values
+-1:01:01
+
+The value should be 5 seconds
+0:00:05
+
+SUCCESSFULLY PASS ALL TESTS!
+Done.

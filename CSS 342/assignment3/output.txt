@@ -1,0 +1,84 @@
+10 5
+0 8
+xxxxxxxx x
+xxx xxxx x
+x xxxxx  x
+x xxxxxx x
+xxxxxxxxxx
+
+
+ Testing on our first maze.
+Path to exit is: X
+
+Testing on our second maze.
+10 7
+6 3
+xxxxxxxxxx
+x  xxx   x
+x  x     x
+x        x
+x        x
+x        x
+xxxxxxxxxx
+
+
+Path to exit is: X
+Testing on our third maze.
+10 7
+6 2
+xxxxxxxxxx
+x  xxx   x
+x  x     x
+x        x
+x        x
+x        x
+xx xxxxxxx
+
+
+Path to exit for maze 3: WSSSSWWWWWNNNNESSSSS
+
+Testing on maze 0.
+20 7
+0 18
+xxxxxxxxxxxxxxxxxx x
+x     x       xxxx x
+x xxxxx  xxxxx  xx x
+x xxxxx xxxxxxx xx x
+x x          xx xx x
+x xxxxxxxxxx xx    x
+xxxxxxxxxxxxxxxxxxxx
+
+
+Path to exit for maze 0: WNNNWESSSEEENNNNN
+Testing my maze 1.
+20 6
+1 19
+xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx   
+xxx               xx
+xxx xxxxxxxxxxxxxxxx
+xxx           xxxxxx
+xxxxxxxxxxxxxxxxxxxx
+
+
+Current location of creature is at row 4 and column 5
+
+Path to exit for my maze 1: WWNNEEEEEEEEEEEEEENEE
+
+Testing my maze 2.
+20 8
+0 6
+xxxxxx xxxxxxxxxxxxx
+xx xxx xxxxxxxxxxxxx
+xx xxx xxxxxxxxxxxxx
+xx  xx   xxxxxxxxxxx
+xxx xxxx xxxxxxxxxxx
+xxx xxxx xxxxxxxxxxx
+xxx      xxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx
+
+
+Current location of creature is at row 1 and column 2
+
+Path to exit for my maze 1: SSESSSEEEEENNNWWNNN
+TEST COMPLETE!
